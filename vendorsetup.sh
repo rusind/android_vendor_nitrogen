@@ -15,3 +15,4 @@
 #
 
 add_lunch_combo nitrogen_emulator-userdebug
+add_lunch_combo nitrogen_kenzo-userdebug
